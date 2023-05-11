@@ -1,3 +1,5 @@
+/* eslint-disable import/no-anonymous-default-export */
+/* eslint-disable jsx-a11y/alt-text */
 import React, { useEffect, useRef } from "react";
 //import 'aframe';
 //import 'mind-ar/dist/mindar-image-aframe.prod.js';
